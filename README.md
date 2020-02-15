@@ -14,4 +14,4 @@
 
 [X] Seeding Data (rails db:seed)
 
-[ ] Deploying API
+[X] Deploying API
