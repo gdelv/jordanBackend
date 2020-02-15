@@ -1,5 +1,7 @@
 # TO DO
 
+Currently running @ https://jordan-backend.herokuapp.com/sneakers
+
 [X] Database creation (rails new ...)
 
 [X] Database initialization (rails db:migrate)
